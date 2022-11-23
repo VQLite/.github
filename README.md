@@ -1,2 +1,2 @@
-# Vqlite - Simple and Lightweight Vector Search Engine
+# VQLite - Simple and Lightweight Vector Search Engine
 
